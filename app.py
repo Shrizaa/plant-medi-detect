@@ -142,4 +142,4 @@ if uploaded_file is not None:
     progress.empty()
 
     st.write(f"The plant is {result['status']} ({result['name']}) with a confidence of {result['confidence']}.")
->>>>>>> b5b0628742ebc9e8439dcd6040585d1a54bf0305
+    
