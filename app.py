@@ -87,5 +87,3 @@ if uploaded_file is not None:
     # Reset progress bar
     my_bar.empty()
     progress_text.empty()
-
-
