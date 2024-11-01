@@ -66,6 +66,7 @@ if uploaded_file is not None:
     # Get result based on predictions
     result = make_results(predictions, predictions_arr)
 
+
     my_bar.progress(100)
     progress.empty()
 
